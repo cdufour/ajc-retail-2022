@@ -1,12 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Formulaire</title>
+  <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
   <h1>Formulaire</h1>
+  <h2>S'identifier</h2>
+
+  <!-- 
+  Ce formulaire (front) envoie des données (payload) via
+  la méthode post vers l'url form_check
+  Côté back (serveur), cette url (ressource) est censée
+  traitées les données reçues... A venir...
+  -->
+  <form method="post" action="form_check">
+
+    <span>Email</span>
+    <!-- l'input de type email inclut un mécanisme 
+      de validation embarquée
+    -->
+    <input type="email" name="email">
+    
+    <span>Mot de passe</span>
+    <input type="password" name="password">
+    
+    <input type="submit" value="Valider">
+  </form>
+  
+
 </body>
 </html>
