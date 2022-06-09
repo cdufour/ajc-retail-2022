@@ -1,0 +1,4 @@
+*** Exo 1 ***
+Créer deux pages web reproduisant les images: "page-home.png" et "page-article1.png"
+
+Images et textes sont fournis dans le dossier d'exercice.

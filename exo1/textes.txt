@@ -1,0 +1,26 @@
+*** Texte Home ***
+
+Le MIT parvient à rassembler plusieurs milliers de synapses artificielles sur une seule puce
+Des chercheurs du MIT viennent de développer un « cerveau-sur-puce » en parvenant à regrouper plusieurs dizaines de milliers de synapses artificielles sur une unique micropuce plus petite qu’un confetti.
+
+Pourquoi c’est important : Alors que les intelligences artificielles se situent principalement aujourd’hui au sein de logiciels, cette avancée porte l’intégration de ces concepts au niveau hardware, la couche primaire des systèmes.
+
+Le 9 juin 2020 - Intelligence artificielle
+
+
+Google Maps s’adapte pour suivre l’impact du Covid-19 sur les trajets
+Google Maps vient d’introduire un ensemble de nouvelles fonctionnalités afin de mieux informer ses utilisateurs dans le cadre de leurs trajets et usage des transports en commun afin de les tenir informés des impacts des mesures liées au Covid-19 sur leurs déplacements.
+
+
+*** Texte Article 1 ***
+Le 9 juin 2020 - Intelligence artificielle
+Le MIT parvient à rassembler plusieurs milliers de synapses artificielles sur une seule puce
+Photo : Mathew Schwartz
+
+Des chercheurs du MIT viennent de développer un « cerveau-sur-puce » en parvenant à regrouper plusieurs dizaines de milliers de synapses artificielles sur une unique micropuce plus petite qu’un confetti.
+
+Plus de précisions :
+
+En biologie, une synapse correspond à une zone de contact fonctionnelle établie entre deux neurones, ou entre un neurone et une autre cellule (cellules musculaires, récepteurs sensoriels).
+En électronique, on parle de memristors, qui sont des composants électroniques dits passifs et qui simulent le même fonctionnement que les synapses. La première implémentation physique du memristor a été évoquée en avril 2008.
+
