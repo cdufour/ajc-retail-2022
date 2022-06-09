@@ -1,0 +1,19 @@
+#gallery div {
+  width: 160px;
+  height: 90px;
+  background-color: #eee;
+  margin: 20px;
+  float: left;
+  padding: 10px;
+  box-shadow: 5px 5px 6px 2px rgb(0,0,0,0.2);
+  overflow:hidden
+}
+
+#gallery div img {
+  width: 160px;
+  height: 90px
+}
+
+#gallery div:hover {
+  box-shadow: 5px 5px 8px 2px rgb(0,0,0,0.4);
+}
