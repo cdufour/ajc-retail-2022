@@ -8,7 +8,7 @@ $n2 = intval($n);
 // echo gettype($n2); renvoie "integer"
 
 if ($n2 == 0) {
-  echo "Valeur non calculable";
+  echo '<span style="color:red">Valeur non calculable</span>';
 } else {
   // carré potientiellement calculable
   // Contrainte. Calcul du carré que si
@@ -17,13 +17,12 @@ if ($n2 == 0) {
     $s = $n2 * $n2; // calcul du carré
     echo "Le carré de " . $n2 . " vaut " . $s;
   } else {
-    echo "Je n'accepte de calculer le carré d'une valeur supérieure à 1000 !";
+    echo "Je n'accepte pas de calculer le carré d'une valeur supérieure à 1000 !";
   }
-
 }
-
-
-
-
 ?>
+
+<p>
+  <a href="index.html">Retour au formulaire</a>
+</p>
 

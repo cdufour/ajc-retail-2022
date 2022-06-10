@@ -1,0 +1,2 @@
+Afficher un lien "retour au formulaire" sous la réponse
+Affichier en rouge le texte "Valeur non calculable"
