@@ -35,8 +35,8 @@
         echo '<li>';
       }
       
-      echo $student["name"];
-      echo " (" . $student["note"] . "/20)";
+      echo '<a href="note.php?id=' . $student["id"] . '">' . $student["name"] . "</a>";
+      //echo " (" . $student["note"] . "/20)";
 
       if ($student["note"] >= 18) {
         echo '<img class="icon" src="coupe.png">';

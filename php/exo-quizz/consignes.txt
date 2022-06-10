@@ -1,0 +1,12 @@
+*** EXO QUIZZ ***
+Créer une page php renvoyant au client:
+- une question de type vrai/faux. Exemple: "La capitale de l'Italie est Turin".
+- un formulaire contenant deux input de type submit
+    l'un des 2 inputs aura la valeur "vrai"
+    l'autre aura la valeur "faux"
+N.B: pensez à nommer vos inputs pour pouvoir récupérer leur valeur côté back.
+
+La soumission du formulaire se fera sur une autre page php qui aura la tâche
+de vérifier que le choix fait par l'utilisateur est correct.
+Par exemple, s'il a appuyé sur vrai, on lui répondra: "Mauvaise réponse, c'est Rome !".
+S'il a appuyé sur faux, on lui répondra: "Bonne réponse".

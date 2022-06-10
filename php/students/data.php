@@ -3,10 +3,10 @@
 // données codées en dur (hardcoded).
 // Dans la réalité, elles proviendraient d'une base de données
 $students = [
-  [ "name" => "Alexandre", "note" => 18 ],
-  [ "name" => "Balkhisse", "note" => 20 ],
-  [ "name" => "Christian", "note" => 12 ],
-  [ "name" => "Clément", "note" => 9.5 ]
+  [ "id" => 1, "name" => "Alexandre", "note" => 18 ],
+  [ "id" => 2, "name" => "Balkhisse", "note" => 20 ],
+  [ "id" => 3, "name" => "Christian", "note" => 12 ],
+  [ "id" => 4, "name" => "Clément", "note" => 9.5 ]
 ];
 
 ?>
