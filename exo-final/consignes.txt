@@ -1,0 +1,35 @@
+*** Exo final ***
+
+Créer une application web offrant au moins l'une des deux fonctionnalités suivantes:
+ 1. obtention du hash md5 ou sha256 d'une chaîne de caractère
+ 2. test de la "robustesse" d'un mot de passe
+
+
+** Fonctionnalité 1 **
+Un formulaire permettra à l'utilisateur :
+- de saisir une chaîne de caractère
+- de choisir son algorithme de hash (md5 ou sha256) via un menu déroulant.
+- d'envoyer ces deux paramètres au serveur
+En réponse à la soumission de ce formulaire, le serveur retournera le hash correspondant.
+Le serveur devra vérifier que les deux paramètres ont bien été fournis pas le client.
+
+Exemple de hash md5.
+"javascript" => de9b9ed78d7e2e1dceeffee780e2f919
+
+** Fonctionnalité 2 **
+Un formulaire permettra à l'utilisateur:
+- de saisir une chaîne de caractère
+- de cliquer sur un bouton de validation
+Si la chaîne de caractère saisie
+- est d'une longueur supérieure ou égale à 10
+- contient au moins une valeur numérique (entre 0 et 9)
+
+Au clic sur le bouton de validation, le message "Mot de passe fort !" apparaîtra 
+dans l'interface (en vert), si les conditions précédemment décrites sont réunues.
+Sinon, le message "Mot de passe faible !" apparaîtra dans l'interface (en rouge).
+N.B: cette fonctionnalité ne requiert pas l'intervention du serveur.
+
+
+** Modalités **
+Le travail se fera de préférence en binôme.
+Le travail me sera envoyé, zippé, avant le 14/06/2022, 19h, à cet email: opusidea@gmail.com
