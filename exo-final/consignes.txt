@@ -6,7 +6,7 @@ Créer une application web offrant au moins l'une des deux fonctionnalités suiv
 
 
 ** Fonctionnalité 1 **
-Un formulaire permettra à l'utilisateur :
+Un formulaire permettra à l'utilisateur:
 - de saisir une chaîne de caractère
 - de choisir son algorithme de hash (md5 ou sha256) via un menu déroulant.
 - d'envoyer ces deux paramètres au serveur

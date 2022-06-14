@@ -1,3 +1,0 @@
-- pas d'espace (utiliser le tiret ou underscore)
-- pas de caractères spéciaux/accent (ex: %, è, !)
-- pas de majuscule
