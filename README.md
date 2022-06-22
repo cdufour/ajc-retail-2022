@@ -1,3 +1,17 @@
+# Formation Docker
+
+## Notes
+Le dossier __htdocs__ sert de volume à associer à un conteneur apache par la commande suivante:  
+
+```
+docker run -d --name apache -p 8000:80 -v "$PWD/htdocs/":/usr/local/apache2/htdocs httpd:2.4-alpine
+```
+
+## Vidéos enregistrée durant le stage (ouvrir avec Chrome)
+
+### Jour 2
+- [Matin 9h30-11h](https://opusidea-training.s3.eu-west-3.amazonaws.com/divers/2022-06-22-docker-j2-1.webm)
+
 # Formation Développement Web
 
 ## Liens utiles
