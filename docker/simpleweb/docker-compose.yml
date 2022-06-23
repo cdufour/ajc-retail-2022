@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  
+  express:
+    image: ajc/simpleweb:0.2
+    ports:
+    - "3000:3000"
+    environment:
+      REDIS_HOST: redis
+    depends_on:
+    - redis
+
+  # le nom du service permet une résolution DNS (pas besoin de connaître l'IP correspondante)
+  redis:
+    image: redis:5-alpine
