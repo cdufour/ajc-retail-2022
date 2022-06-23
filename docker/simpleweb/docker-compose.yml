@@ -2,7 +2,7 @@ version: "3.8"
 services:
   
   express:
-    image: ajc/simpleweb:0.2
+    image: opusidea/ajc-simpleweb:0.2
     ports:
     - "3000:3000"
     environment:
