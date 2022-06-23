@@ -12,6 +12,9 @@ docker run -d --name apache -p 8000:80 -v "$PWD/htdocs/":/usr/local/apache2/htdo
 ### Jour 2
 - [Matin 9h30-11h](https://opusidea-training.s3.eu-west-3.amazonaws.com/divers/2022-06-22-docker-j2-1.webm)
 
+### Jour 3
+- [Fin de journée](https://opusidea-training.s3.eu-west-3.amazonaws.com/divers/2022-06-23-docker-j3.webm)
+
 # Formation Développement Web
 
 ## Liens utiles
