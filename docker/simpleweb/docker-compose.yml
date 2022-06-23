@@ -2,6 +2,9 @@ version: "3.8"
 services:
   
   express:
+    # possiblité de build intégré par utilisation du Dockerfile
+    #build: .
+    # ou bien: utilisation d'une image déjà "built" située dans le docker hub
     image: opusidea/ajc-simpleweb:0.2
     ports:
     - "3000:3000"
