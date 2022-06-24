@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  calculator:
+    container_name: calculator
+    image: opusidea/exo3-calculator
+    ports:
+    - "8000:80"
+
+  calculator2:
+    container_name: calculator2
+    image: opusidea/exo3-calculator
+    ports:
+    - "9000:80"
